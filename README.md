@@ -1,6 +1,6 @@
 # MitmProxy 
 
-A NPM wrapper for [MitmProxy](https://mitmproxy.org/).
+A NPM wrapper for [MitmProxy](https://mitmproxy.org/) v2.
 
 ## Usage
 

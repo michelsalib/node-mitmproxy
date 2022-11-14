@@ -28,6 +28,9 @@ Promise.resolve()
                 case 'win32':
                     fileName += 'windows.zip';
                     break;
+                case 'darwin':
+                    fileName += 'osx.tar.gz';
+                    break;
                 default:
                     throw `Platform ${process.platform} is not supported.`;
             }
